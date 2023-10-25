@@ -1,0 +1,24 @@
+{
+    "conversaciones": [
+        {
+            "pregunta": "Hola",
+            "respuesta": "¡Hola! ¿En que puedo ayudarte?"
+        },
+        {
+            "pregunta": "Como estas",
+            "respuesta": "Estoy bien, gracias por preguntar."
+        },
+        {
+            "pregunta": "Adios",
+            "respuesta": "Hasta luego! Si tienes mas preguntas, no dudes en volver."
+        },
+        {
+            "pregunta": "¿Que es Python?",
+            "respuesta": "Python es un lenguaje de programacion de alto nivel muy utilizado en desarrollo de software."
+        },
+        {
+            "pregunta": "¿Como puedo aprender Python?",
+            "respuesta": "Puedes aprender Python a través de tutoriales en linea, cursos en plataformas como Coursera o edX, o mediante libros y documentacion oficial."
+        }
+    ]
+}
